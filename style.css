@@ -440,3 +440,11 @@
 .mob-btn {
     display: none;
 }
+
+.arrow {
+    cursor: pointer;
+}
+.arrow :hover {
+    cursor: pointer;
+    width: 30px;
+}
